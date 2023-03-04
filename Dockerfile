@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="370c773a-126a-4452-8ab2-0121e15571a0"
+ARG AUUID="e7aa0ad2-46bc-4495-a24b-eae353adb819"
 ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
